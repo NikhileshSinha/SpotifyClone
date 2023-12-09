@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "902304365585",
+    "project_id": "spotifylogin-db325",
+    "storage_bucket": "spotifylogin-db325.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902304365585:android:29de8ee2b2bfebec0605b0",
+        "android_client_info": {
+          "package_name": "com.example.spotify_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh4MSVtdQ8JsnSpBZbEwMFhVsIGiudAjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
